@@ -2,7 +2,7 @@
 A real-time, browser-based AR lipstick try-on experience inspired by M·A·C Cosmetics. Uses your webcam and Google's MediaPipe Face Mesh to track your lips and apply virtual lipstick color — no app install, no data upload, everything runs locally on your device.
 
 
-![image alt](https://https://github.com/ProjectHopper/MAC_Virtual_Lip_Studio_-MediaPipe_Face_Mesh-/blob/601d807d09be3e0bec39a1716475ec734217280c/Screenshot%202026-03-14%20130020.jpg)
+![image alt](https://github.com/ProjectHopper/MAC_Virtual_Lip_Studio_-MediaPipe_Face_Mesh-/blob/e904e3aedbca3c13465ca0bf362123643a75545d/Screenshot%202026-03-14%20130020.jpg)
 
 
 ![image alt](https://github.com/ProjectHopper/MAC_Virtual_Lip_Studio_-MediaPipe_Face_Mesh-/blob/601d807d09be3e0bec39a1716475ec734217280c/Screenshot%202026-03-14%20130119.png)
